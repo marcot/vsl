@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Exceptions.ProcessException" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Exceptions\ProcessException.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Misc.Person" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Misc\ExtendedBlob.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQABABAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Misc.Junk" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Misc\ExtendedBlob.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQABABAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Misc.Unknown" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Misc\ExtendedBlob.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQABABAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Misc.ExtendedBlob" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Misc\ExtendedBlob.cs</FileName>
+      <HashCode>AAACAAAAAAAAAAAEAAMAAAAgIIAgAAAAAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.SurveillanceSystem.ConfigurationForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TrackingSystem\ConfigurationForm.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.ClassifyObjects.IClassifyObjects" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ClassifyObjects\IClassifyObjects.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.ImageProcess.IImageProcess">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ImageProcess\IImageProcess.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.MotionSegmentation.IMotionSegmentation" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>MotionSegmentation\IMotionSegmentation.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.OutputSystem.IOutput" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OutputSystem\IOutput.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.OutputSystem.IOutputSystem">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OutputSystem\IOutputSystem.cs</FileName>
+      <HashCode>AAAAKAAAAAAwAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.SurveillanceSystem.ISurveillanceSystem">
+    <Position X="4" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>TrackingSystem\ISurveillanceSystem.cs</FileName>
+      <HashCode>AAAACBEAAAAwIAACAAAAAAQAAKAAAAAAAAAAABCAAIA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zoombut.VisualSurveillanceLaboratory.TrackObjects.ITrackObjects" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TrackObjects\ITrackObjects.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="Zoombut.VisualSurveillanceLaboratory.SurveillanceSystem.GraphicalOutputDelegate" Collapsed="true">
+    <Position X="0.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <FileName>TrackingSystem\ISurveillanceSystem.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Delegate>
+</ClassDiagram>

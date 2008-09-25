@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Controls.Camera" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controls\Camera.cs</FileName>
+      <HashCode>gAEQAgQABiAAAAwAQBAAAFAACAAAAAAIoQBAAIAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Controls.CameraWindow" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Controls\CameraWindow.cs</FileName>
+      <HashCode>AASCAAAAQgAAAGAAEAIgAAACAAAAAAAAAAgCEAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Gui.AboutBox" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Gui\AboutBox.cs</FileName>
+      <HashCode>kIACAAgAACAACAUAAACAAEADAAAAEIAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Gui.CaptureDeviceForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Gui\CaptureDeviceForm.cs</FileName>
+      <HashCode>AJEDEJIMiCUQAxAAAgGIhECCSAAgUCAQhKwAAAAggAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Gui.MainForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Gui\MainForm.cs</FileName>
+      <HashCode>BQAABQBACiAAIIACACGAAABCQAIEAAgBIwCIAAEAQIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.OutputSystemFactory" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OutputSystemFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABABAAAIAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.TrackingSystemsFactory">
+    <Position X="2.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>TrackingSystemsFactory.cs</FileName>
+      <HashCode>AAIAAAACAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisualSurveillanceSystem.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceLaboratory.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zoombut.VisualSurveillanceSystem.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAgAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
