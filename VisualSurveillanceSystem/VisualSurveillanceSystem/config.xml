@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <TrackingSystem location="C:\Documents and Settings\Developer\My Documents\Visual Studio 2005\Projects\VSL\SimpleTrackingSystemExample\bin\Debug\SimpleTrackingSystemExample.dll" class="Zoombut.SimpleTrackingSystemExample.ExampleTrackingSystem"/>
+  <OutputSystem location="C:\Documents and Settings\Developer\My Documents\Visual Studio 2005\Projects\VSL\FileOutputSystem\bin\Debug\SimpleFileOutputSystemExample.dll" class="Zoombut.SimpleFileOutputSystemExample.ExampleOutputSystem"/>
+</Configuration>
